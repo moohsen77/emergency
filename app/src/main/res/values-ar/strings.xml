@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">طوارئ</string>
+    <string name="child">نجده الطفل</string>
+    <string name="fire">مطافي</string>
+    <string name="police">الشرطة</string>
+
+</resources>
